@@ -14,7 +14,7 @@ public class DemoApplication {
 	@Bean
 	S3StorageService createStorageService() {
 		S3StorageService storageService = new S3StorageService();
-		storageService.init();;
+		storageService.init();
 
 		return storageService;
 	}
