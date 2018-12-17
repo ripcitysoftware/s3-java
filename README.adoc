@@ -1,3 +1,3 @@
 = README
 
-This is an example application to read files from an AWS S3 bucket. You can find a detailed description of how to setup S3 and how to use IAM Roles instead of passwords http://www.ripcitysoftware.com/2018/12/17/java-and-iam-roles/[here].
+This is an example application to read files from an AWS S3 bucket. You can find a detailed description of how to setup S3, how to use IAM Roles instead of passwords and how to configure the AWS SDK to not use passwords to access protected resources http://www.ripcitysoftware.com/2018/12/17/java-and-iam-roles/[here].
